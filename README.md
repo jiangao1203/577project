@@ -1,9 +1,60 @@
-577project
-==============================
+# 577 Project
 
-My final project for WUSTL course 577. 
+#### -- Project Status: [Active]
 
-The topic hasn't been finalized.
+## Project Intro/Objective
+
+This is my final project for WUSTL course 577. 
+
+The topic hasn't been finalized but will be by next week. [02/18/2021]
+
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* etc.
+
+### Technologies
+* Python
+* Pandas, jupyter
+* etc. 
+
+## Project Description
+(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+
+## Needs of this project
+
+- data exploration/descriptive statistics
+- data processing/cleaning
+- statistical modeling
+- writeup/reporting
+- etc. 
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+
+    *If using offline data mention that and how they may obtain the data from the froup)*
+    
+3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
+
+"setup.md"   
+
+5. Follow setup [instructions](Link to file)
+
+## Featured Notebooks/Analysis/Deliverables
+* [T81 577 Applied Data Science for Practitioners](https://github.com/abanskota/t81_577_data_science)
+* [Blog Post](link)
+
+
+
+
+
+## Contact
+*My email is g.jian@wustl.edu. Feel free to contact me if you have any question :)
 
 Project Organization
 ------------
