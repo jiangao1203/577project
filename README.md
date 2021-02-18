@@ -1,7 +1,9 @@
 577project
 ==============================
 
-My final project for WUSTL course 577
+My final project for WUSTL course 577. 
+
+The topic hasn't been finalized.
 
 Project Organization
 ------------
